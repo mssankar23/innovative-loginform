@@ -1,0 +1,18 @@
+body {
+    font-family: Arial,;
+    background-color: #d3caca;
+    margin-left: 20px;
+}
+
+body form{
+    font-family: Arial,;
+    background-color: #d3caca;
+    margin-left: 20px;
+}
+.btn{
+    font-family: Arial,;
+    background-color: #d3caca;
+    margin-left: 5px;
+    box-shadow: #da0707;
+
+}
